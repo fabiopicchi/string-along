@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="72" height="16" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="marionete_tileset_placeholder" tilewidth="32" tileheight="32">
+  <image source="marionete_tileset_placeholder.png" width="704" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="72" height="16">
+  <data>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="2"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+   <tile gid="3"/>
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 3" width="72" height="16" opacity="0.31">
+  <object name="plataformamovel" type="plataformamovel" x="544" y="160" width="224" height="96">
+   <properties>
+    <property name="altura" value="10"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="10000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="576" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="608" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="640" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="672" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="704" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="736" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="768" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="800" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="832" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="928" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="960" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="992" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1024" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="896" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="864" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1984" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1677" y="63" width="32" height="32"/>
+  <object name="perola" type="perola" x="2144" y="64" width="32" height="32"/>
+  <object name="perola" type="perola" x="1776" y="64" width="32" height="32"/>
+  <object name="plataformamovel" type="plataformamovel" x="1792" y="160" width="128" height="32">
+   <properties>
+    <property name="altura" value="10"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="15000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="2189" y="63" width="32" height="32"/>
+  <object name="perola" type="perola" x="1632" y="64" width="32" height="32"/>
+  <object name="plataformamovel" type="plataformamovel" x="1632" y="160" width="128" height="32">
+   <properties>
+    <property name="altura" value="10"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="15000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="plataformamovel" type="plataformamovel" x="1472" y="160" width="128" height="32">
+   <properties>
+    <property name="altura" value="10"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="15000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="1873" y="63" width="32" height="32"/>
+  <object name="perola" type="perola" x="1824" y="64" width="32" height="32"/>
+  <object name="perola" type="perola" x="2001" y="64" width="32" height="32"/>
+  <object name="aranha" type="aranha" x="2048" y="128" width="32" height="32">
+   <properties>
+    <property name="altura" value="5"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="800"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="1968" y="63" width="32" height="32"/>
+  <object name="perola" type="perola" x="2096" y="64" width="32" height="32"/>
+  <object name="aranha" type="aranha" x="1920" y="128" width="32" height="32">
+   <properties>
+    <property name="altura" value="5"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="800"/>
+   </properties>
+  </object>
+  <object name="aranha" type="aranha" x="1728" y="128" width="32" height="32">
+   <properties>
+    <property name="altura" value="5"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="800"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="1584" y="64" width="32" height="32"/>
+  <object name="perola" type="perola" x="1984" y="32" width="32" height="32"/>
+  <object name="perola" type="perola" x="1248" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1215" y="77" width="32" height="32"/>
+  <object name="perola" type="perola" x="1247" y="77" width="32" height="32"/>
+  <object name="perola" type="perola" x="1279" y="77" width="32" height="32"/>
+  <object name="perola" type="perola" x="1247" y="64" width="32" height="32"/>
+  <object name="aranha" type="aranha" x="2240" y="128" width="32" height="32">
+   <properties>
+    <property name="altura" value="5"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="800"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Cenario Layer 3" width="72" height="16" opacity="0.18">
+  <object x="0" y="0" width="32" height="512"/>
+  <object x="2272" y="0" width="32" height="512"/>
+  <object x="32" y="320" width="2240" height="192"/>
+  <object x="32" y="64" width="64" height="256"/>
+  <object x="320" y="128" width="64" height="192"/>
+  <object x="96" y="160" width="96" height="160"/>
+  <object x="192" y="224" width="128" height="96"/>
+  <object x="384" y="256" width="1280" height="64"/>
+  <object x="1152" y="96" width="64" height="160"/>
+  <object x="1216" y="128" width="96" height="128"/>
+  <object x="2112" y="224" width="64" height="160"/>
+  <object x="1504" y="224" width="64" height="160"/>
+  <object x="1984" y="224" width="64" height="160"/>
+  <object x="1664" y="224" width="64" height="160"/>
+  <object x="1824" y="224" width="64" height="160"/>
+  <object x="1472" y="192" width="800" height="32"/>
+  <object x="2240" y="224" width="64" height="160"/>
+ </objectgroup>
+ <objectgroup name="Object Layer 2" width="72" height="16" visible="0" opacity="0.43">
+  <object name="perola" type="perola" x="512" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="544" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="544" y="32" width="32" height="32"/>
+  <object name="perola" type="perola" x="480" y="64" width="32" height="32"/>
+  <object name="perola" type="perola" x="576" y="64" width="32" height="32"/>
+  <object name="perola" type="perola" x="512" y="32" width="32" height="32"/>
+  <object name="plataformatransponivel" type="plataformatransponivel" x="1378" y="83" width="62" height="8">
+   <properties>
+    <property name="altura" value="3"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="100"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="plataformatransponivel" type="plataformatransponivel" x="1278" y="170" width="68" height="7">
+   <properties>
+    <property name="altura" value="3"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="100"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="plataformatransponivel" type="plataformatransponivel" x="1186" y="248" width="62" height="8">
+   <properties>
+    <property name="altura" value="3"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="100"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="1184" y="216" width="32" height="32"/>
+  <object name="perola" type="perola" x="1216" y="184" width="32" height="32"/>
+  <object name="perola" type="perola" x="1248" y="216" width="32" height="32"/>
+  <object name="perola" type="perola" x="1280" y="184" width="32" height="32"/>
+  <object name="perola" type="perola" x="1312" y="216" width="32" height="32"/>
+  <object name="perola" type="perola" x="1280" y="123" width="32" height="32"/>
+  <object name="perola" type="perola" x="1312" y="91" width="32" height="32"/>
+  <object name="perola" type="perola" x="1344" y="123" width="32" height="32"/>
+  <object name="perola" type="perola" x="1376" y="91" width="32" height="32"/>
+  <object name="perola" type="perola" x="1216" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="1184" y="288" width="32" height="32"/>
+  <object name="perola" type="perola" x="1152" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="1120" y="288" width="32" height="32"/>
+  <object name="perola" type="perola" x="1088" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="576" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="608" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="640" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="672" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="704" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="736" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="768" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="800" y="224" width="32" height="32"/>
+  <object name="toco" type="toco" x="864" y="224" width="32" height="32"/>
+  <object name="tocoblock" type="tocoblock" x="896" y="224" width="32" height="32"/>
+  <object name="toco" type="toco" x="832" y="224" width="32" height="32"/>
+  <object name="plataformatransponivel" type="plataformatransponivel" x="1824" y="90" width="447" height="5">
+   <properties>
+    <property name="altura" value="3"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="100"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="plataformamovel" type="plataformamovel" x="1824" y="160" width="128" height="64">
+   <properties>
+    <property name="altura" value="-10"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="18000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="plataformamovel" type="plataformamovel" x="2144" y="160" width="128" height="64">
+   <properties>
+    <property name="altura" value="-10"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="18000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="plataformamovel" type="plataformamovel" x="1984" y="160" width="128" height="64">
+   <properties>
+    <property name="altura" value="-10"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="18000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="1952" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1984" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2016" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="2048" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2080" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="2112" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2144" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1920" y="128" width="32" height="32"/>
+  <object name="carretel" type="carretel" x="1408" y="123" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Cenario Layer 2" width="72" height="16" visible="0" opacity="0.53">
+  <object x="0" y="0" width="32" height="384"/>
+  <object x="2272" y="0" width="32" height="384"/>
+  <object x="64" y="224" width="64" height="160"/>
+  <object x="448" y="160" width="64" height="224"/>
+  <object x="192" y="224" width="64" height="160"/>
+  <object x="32" y="192" width="416" height="32"/>
+  <object x="512" y="128" width="64" height="256"/>
+  <object x="576" y="160" width="64" height="224"/>
+  <object x="1024" y="320" width="448" height="64"/>
+  <object x="1153" y="171" width="31" height="85"/>
+  <object x="1120" y="147" width="128" height="32"/>
+  <object x="1248" y="83" width="32" height="96"/>
+  <object x="1088" y="224" width="64" height="32"/>
+  <object x="1248" y="249" width="96" height="69"/>
+  <object x="1343" y="155" width="95" height="167"/>
+  <object x="1217" y="60" width="160" height="32"/>
+  <object x="1441" y="61" width="31" height="269"/>
+  <object x="320" y="224" width="64" height="160"/>
+  <object x="640" y="256" width="256" height="128"/>
+  <object x="1664" y="256" width="64" height="160"/>
+  <object x="1504" y="256" width="64" height="160"/>
+  <object x="1984" y="256" width="64" height="160"/>
+  <object x="2240" y="256" width="64" height="160"/>
+  <object x="1472" y="224" width="800" height="32"/>
+  <object x="2112" y="256" width="64" height="160"/>
+  <object x="1824" y="256" width="64" height="160"/>
+ </objectgroup>
+ <objectgroup name="Object Layer 1" width="72" height="16" visible="0">
+  <object name="parte3" type="parte3" x="2176" y="96" width="32" height="32"/>
+  <object name="plataformatransponivel" type="plataformatransponivel" x="416" y="151" width="225" height="7">
+   <properties>
+    <property name="altura" value="3"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="5000"/>
+    <property name="t_inicial" value="100"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="448" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="512" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="576" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="512" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="576" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="448" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="224" y="119" width="32" height="32"/>
+  <object name="perola" type="perola" x="288" y="119" width="32" height="32"/>
+  <object name="perola" type="perola" x="224" y="87" width="32" height="32"/>
+  <object name="perola" type="perola" x="288" y="87" width="32" height="32"/>
+  <object name="perola" type="perola" x="352" y="119" width="32" height="32"/>
+  <object name="perola" type="perola" x="352" y="87" width="32" height="32"/>
+  <object name="toco" type="toco" x="608" y="119" width="32" height="32"/>
+  <object name="tocoblock" type="tocoblock" x="640" y="119" width="32" height="32"/>
+  <object name="tocoblock" type="tocoblock" x="384" y="119" width="32" height="32"/>
+  <object name="plataformamovel" type="plataformamovel" x="1696" y="160" width="64" height="32">
+   <properties>
+    <property name="altura" value="-3"/>
+    <property name="direcao" value="1"/>
+    <property name="intervalo" value="6000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="1696" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1728" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1696" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="1728" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="1696" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="1728" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="1696" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="1728" y="160" width="32" height="32"/>
+  <object name="plataformamovel" type="plataformamovel" x="992" y="224" width="160" height="32">
+   <properties>
+    <property name="altura" value="6"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="14000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="perola" type="perola" x="1120" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1088" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1184" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1216" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1248" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1344" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1280" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1152" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1312" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="2176" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2176" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="2176" y="128" width="32" height="32"/>
+  <object name="plataformamovel" type="plataformamovel" x="1824" y="224" width="128" height="32">
+   <properties>
+    <property name="altura" value="6"/>
+    <property name="direcao" value="0"/>
+    <property name="intervalo" value="9000"/>
+    <property name="t_inicial" value="200"/>
+    <property name="tipo" value="pendurada"/>
+   </properties>
+  </object>
+  <object name="carretel" type="carretel" x="1536" y="95" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Cenario Layer 1" width="72" height="16" visible="0">
+  <object x="2272" y="0" width="32" height="288"/>
+  <object x="0" y="0" width="32" height="288"/>
+  <object x="-32" y="256" width="1632" height="32"/>
+  <object x="1824" y="256" width="448" height="32"/>
+  <object x="416" y="224" width="287" height="36"/>
+  <object x="192" y="151" width="224" height="128"/>
+  <object x="96" y="224" width="32" height="32"/>
+  <object x="128" y="192" width="64" height="64"/>
+  <object x="1408" y="192" width="192" height="64"/>
+  <object x="1504" y="128" width="96" height="64"/>
+ </objectgroup>
+</map>

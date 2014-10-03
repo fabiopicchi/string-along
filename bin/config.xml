@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+	<property name="velocidadePlayer" value="500"/>
+	<property name="gravidade" value="2000"/>
+	<property name="velocidadeAtacandoPlayer" value="75"/>
+	<property name="velocidadeAndandoPlayer" value="83"/>
+	<property name="velocidadePulandoPlayer" value="100"/>
+	<property name="velocidadeCaindoPlayer" value="100"/>
+</properties>

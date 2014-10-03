@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="16" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="marionete_tileset_placeholder" tilewidth="32" tileheight="32">
+  <image source="marionete_tileset_placeholder.png" width="704" height="32"/>
+ </tileset>
+ <objectgroup name="Object Layer 3" width="128" height="16" opacity="0.22">
+  <object name="perola" type="perola" x="2848" y="192" width="32" height="32"/>
+  <object name="tocoblock" type="tocoblock" x="2976" y="192" width="32" height="32"/>
+  <object name="toco" type="toco" x="3072" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2816" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2880" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2912" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="2944" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="2976" y="256" width="32" height="32"/>
+  <object name="tocoblock" type="tocoblock" x="3168" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="3200" y="288" width="32" height="32"/>
+  <object name="perola" type="perola" x="3328" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="3360" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="3168" y="288" width="32" height="32"/>
+  <object name="perola" type="perola" x="3232" y="288" width="32" height="32"/>
+  <object name="perola" type="perola" x="3392" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="3040" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="3104" y="192" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Cenario Layer 3" width="128" height="16" opacity="0.18">
+  <object x="2592" y="192" width="128" height="320"/>
+  <object x="2720" y="288" width="32" height="224"/>
+  <object x="2752" y="256" width="64" height="256"/>
+  <object x="2816" y="224" width="96" height="288"/>
+  <object x="2912" y="288" width="96" height="224"/>
+  <object x="3008" y="224" width="160" height="288"/>
+  <object x="3168" y="320" width="96" height="192"/>
+  <object x="3296" y="256" width="32" height="256"/>
+  <object x="3328" y="224" width="96" height="288"/>
+  <object x="0" y="0" width="32" height="512"/>
+  <object x="32" y="160" width="128" height="352"/>
+  <object x="160" y="320" width="288" height="192"/>
+  <object x="448" y="192" width="32" height="320"/>
+  <object x="480" y="160" width="64" height="352"/>
+  <object x="544" y="256" width="96" height="256"/>
+  <object x="704" y="192" width="96" height="320"/>
+  <object x="800" y="352" width="32" height="160"/>
+  <object x="832" y="224" width="64" height="288"/>
+  <object x="896" y="288" width="96" height="224"/>
+  <object x="992" y="160" width="64" height="352"/>
+  <object x="1248" y="224" width="160" height="288"/>
+  <object x="1472" y="192" width="64" height="320"/>
+  <object x="1568" y="256" width="96" height="256"/>
+  <object x="1792" y="64" width="32" height="448"/>
+  <object x="1760" y="128" width="32" height="384"/>
+  <object x="1824" y="128" width="32" height="384"/>
+  <object x="1952" y="128" width="160" height="384"/>
+  <object x="2112" y="192" width="128" height="32"/>
+  <object x="2240" y="160" width="64" height="352"/>
+  <object x="2304" y="128" width="96" height="384"/>
+ </objectgroup>
+ <objectgroup name="Object Layer 2" width="128" height="16" visible="0" opacity="0.53">
+  <object name="tocoblock" type="tocoblock" x="1888" y="160" width="32" height="32"/>
+  <object name="tocoblock" type="tocoblock" x="2112" y="160" width="32" height="32"/>
+  <object name="toco" type="toco" x="2016" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="2336" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2368" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2304" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2400" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2432" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="2496" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="2656" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="2816" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="3328" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3360" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3392" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3456" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="3488" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="3520" y="256" width="32" height="32"/>
+  <object name="perola" type="perola" x="3584" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="3424" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3296" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="2848" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2784" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2688" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="2624" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="2528" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="2464" y="160" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Cenario Layer 2" width="128" height="16" visible="0" opacity="0.59">
+  <object x="2112" y="224" width="128" height="160"/>
+  <object x="2304" y="160" width="160" height="224"/>
+  <object x="2240" y="128" width="64" height="256"/>
+  <object x="1920" y="192" width="192" height="192"/>
+  <object x="2464" y="192" width="96" height="192"/>
+  <object x="1824" y="256" width="96" height="128"/>
+  <object x="1760" y="160" width="64" height="224"/>
+  <object x="1664" y="128" width="96" height="256"/>
+  <object x="2624" y="192" width="96" height="32"/>
+  <object x="2784" y="224" width="96" height="32"/>
+  <object x="3296" y="256" width="160" height="128"/>
+  <object x="3456" y="288" width="96" height="96"/>
+  <object x="3552" y="224" width="96" height="160"/>
+  <object x="32" y="224" width="160" height="160"/>
+  <object x="0" y="0" width="32" height="384"/>
+  <object x="192" y="288" width="160" height="96"/>
+  <object x="352" y="256" width="96" height="128"/>
+  <object x="448" y="160" width="128" height="224"/>
+  <object x="576" y="256" width="128" height="128"/>
+  <object x="704" y="192" width="160" height="192"/>
+  <object x="864" y="288" width="416" height="96"/>
+  <object x="1280" y="256" width="384" height="128"/>
+ </objectgroup>
+ <objectgroup name="Object Layer 1" width="128" height="16" visible="0">
+  <object name="perola" type="perola" x="256" y="224" width="32" height="32"/>
+  <object name="carretel" type="carretel" x="2208" y="160" width="32" height="32"/>
+  <object name="parte1" type="parte1" x="4000" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="320" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="384" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="448" y="224" width="32" height="32"/>
+  <object name="toco" type="toco" x="1760" y="192" width="32" height="32"/>
+  <object name="tocoblock" type="tocoblock" x="1920" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2016" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="2080" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="1952" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="608" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="704" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="800" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="864" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1024" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="1056" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="1152" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1184" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1280" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1312" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1408" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="1440" y="96" width="32" height="32"/>
+  <object name="perola" type="perola" x="3520" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3552" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3584" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3616" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="3712" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="3744" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="3776" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="3808" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="288" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="352" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="416" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="480" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="576" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="640" y="160" width="32" height="32"/>
+  <object name="perola" type="perola" x="672" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="736" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="768" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="832" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="896" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1920" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="1984" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="2048" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="2112" y="224" width="32" height="32"/>
+  <object name="perola" type="perola" x="1472" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1504" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1536" y="128" width="32" height="32"/>
+  <object name="perola" type="perola" x="1632" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="1728" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="1824" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2272" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2304" y="192" width="32" height="32"/>
+  <object name="perola" type="perola" x="2336" y="192" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Cenario Layer 1" width="128" height="16" visible="0">
+  <object x="1472" y="160" width="96" height="128"/>
+  <object x="2272" y="224" width="96" height="64"/>
+  <object x="928" y="256" width="480" height="32"/>
+  <object x="1024" y="192" width="64" height="32"/>
+  <object x="2144" y="224" width="32" height="64"/>
+  <object x="1920" y="256" width="224" height="32"/>
+  <object x="1280" y="160" width="64" height="32"/>
+  <object x="672" y="256" width="96" height="32"/>
+  <object x="1152" y="160" width="64" height="32"/>
+  <object x="512" y="224" width="64" height="64"/>
+  <object x="1408" y="128" width="64" height="160"/>
+  <object x="2368" y="0" width="32" height="288"/>
+  <object x="4064" y="0" width="32" height="288"/>
+  <object x="768" y="160" width="160" height="128"/>
+  <object x="1568" y="224" width="352" height="64"/>
+  <object x="32" y="256" width="480" height="32"/>
+  <object x="2176" y="192" width="96" height="96"/>
+  <object x="3296" y="256" width="768" height="32"/>
+  <object x="0" y="0" width="32" height="288"/>
+  <object x="576" y="192" width="96" height="96"/>
+  <object x="3680" y="192" width="64" height="64"/>
+  <object x="3744" y="192" width="128" height="32"/>
+  <object x="3840" y="224" width="32" height="32"/>
+  <object x="3968" y="192" width="96" height="64"/>
+ </objectgroup>
+</map>

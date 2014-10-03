@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characterAnimations>
+	<animations name = "PLAYER">
+		<animation name = "MORRENDO_DIR" frameDuration = "80" loop = "false" offsetX = "41" offsetY = "14">
+			<frame id = "0">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "1">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "2">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "3">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "4">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+		</animation>
+		<animation name = "ANDANDO_DIR" frameDuration = "100" loop = "true" offsetX = "38" offsetY = "0">
+			<frame id = "5">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "6">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "7">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "8">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "9">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+			<frame id = "10">
+				<point name = "2" x = "0.134" y = "0.552"/>
+				<point name = "0" x = "0.335" y = "0.485"/>
+				<point name = "1" x = "0.448" y = "0.623"/>
+			</frame>
+		</animation>
+		<animation name = "PULANDO_DIR" frameDuration = "100" loop = "false" offsetX = "38" offsetY = "0">
+			<frame id = "11">
+				<point name = "2" x = "0.134" y = "0.476"/>
+				<point name = "0" x = "0.3351" y = "0.447"/>
+				<point name = "1" x = "0.489" y = "0.485"/>
+			</frame>
+			<frame id = "12">
+				<point name = "2" x = "0.134" y = "0.476"/>
+				<point name = "0" x = "0.3351" y = "0.447"/>
+				<point name = "1" x = "0.489" y = "0.485"/>
+			</frame>
+		</animation>
+		<animation name = "CAINDO_DIR" frameDuration = "100" loop = "false" offsetX = "38" offsetY = "0">
+			<frame id = "12">
+				<point name = "2" x = "0.134" y = "0.476"/>
+				<point name = "0" x = "0.3351" y = "0.447"/>
+				<point name = "1" x = "0.489" y = "0.485"/>
+			</frame>
+			<frame id = "13">
+				<point name = "2" x = "0.134" y = "0.476"/>
+				<point name = "0" x = "0.3351" y = "0.447"/>
+				<point name = "1" x = "0.489" y = "0.485"/>
+			</frame>
+		</animation>
+		<animation name = "PARADO_DIR" frameDuration = "100" loop = "false" offsetX = "38" offsetY = "0">
+			<frame id = "14">
+				<point name = "2" x = "0.226" y = "0.64"/>
+				<point name = "0" x = "0.335" y = "0.49"/>
+				<point name = "1" x = "0.396" y = "0.64"/>
+			</frame>
+		</animation>
+		<animation name = "IDLE_DIR" frameDuration = "100" loop = "false" offsetX = "38" offsetY = "0">
+			<frame id = "14">
+				<point name = "2" x = "0.226" y = "0.661"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "15">
+				<point name = "2" x = "0.448" y = "0.615"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "16">
+				<point name = "2" x = "0.257" y = "0.397"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "17">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "18">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "19">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "17">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "18">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "19">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "17">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "18">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "19">
+				<point name = "2" x = "0.216" y = "0.41"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+			<frame id = "16">
+				<point name = "2" x = "0.257" y = "0.397"/>
+				<point name = "0" x = "0.335" y = "0.497"/>
+				<point name = "1" x = "0.402" y = "0.644"/>
+			</frame>
+		</animation>
+		<animation name = "DANO_DIR" frameDuration = "100" loop = "false" offsetX = "50" offsetY = "0">
+			<frame id = "20">
+				<point name = "2" x = "0.175" y = "0.656"/>
+				<point name = "0" x = "0.1851" y = "0.489"/>
+				<point name = "1" x = "0.228" y = "0.627"/>
+			</frame>
+		</animation>
+		<animation name = "MORRENDO_ESQ" frameDuration = "80" loop = "false" offsetX = "-41" offsetY = "14">
+			<frame id = "21">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "22">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "23">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "24">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "25">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+		</animation>
+		<animation name = "ANDANDO_ESQ" frameDuration = "100" loop = "true" offsetX = "-38" offsetY = "0">
+			<frame id = "26">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "27">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "28">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "29">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "30">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+			<frame id = "31">
+				<point name = "1" x = "0.865" y = "0.64"/>
+				<point name = "0" x = "0.662" y = "0.497"/>
+				<point name = "2" x = "0.551" y = "0.648"/>
+			</frame>
+		</animation>
+		<animation name = "PULANDO_ESQ" frameDuration = "100" loop = "false" offsetX = "-38" offsetY = "0">
+			<frame id = "32">
+				<point name = "1" x = "0.865" y = "0.485"/>
+				<point name = "0" x = "0.6641" y = "0.447"/>
+				<point name = "2" x = "0.501" y = "0.476"/>
+			</frame>
+			<frame id = "33">
+				<point name = "1" x = "0.865" y = "0.485"/>
+				<point name = "0" x = "0.6641" y = "0.447"/>
+				<point name = "2" x = "0.501" y = "0.476"/>
+			</frame>
+		</animation>
+		<animation name = "CAINDO_ESQ" frameDuration = "100" loop = "false" offsetX = "-38" offsetY = "0">
+			<frame id = "33">
+				<point name = "1" x = "0.865" y = "0.485"/>
+				<point name = "0" x = "0.6641" y = "0.497"/>
+				<point name = "2" x = "0.501" y = "0.476"/>
+			</frame>
+			<frame id = "34">
+				<point name = "1" x = "0.865" y = "0.485"/>
+				<point name = "0" x = "0.6641" y = "0.497"/>
+				<point name = "2" x = "0.501" y = "0.476"/>
+			</frame>
+		</animation>
+		<animation name = "PARADO_ESQ" frameDuration = "100" loop = "false" offsetX = "-38" offsetY = "0">
+			<frame id = "35">
+				<point name = "1" x = "0.773" y = "0.64"/>
+				<point name = "0" x = "0.6641" y = "0.497"/>
+				<point name = "2" x = "0.603" y = "0.648"/>
+			</frame>
+		</animation>
+		<animation name = "IDLE_ESQ" frameDuration = "100" loop = "false" offsetX = "-38" offsetY = "0">
+			<frame id = "35">
+				<point name = "1" x = "0.793" y = "0.661"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "36">
+				<point name = "1" x = "0.69" y = "0.702"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "37">
+				<point name = "1" x = "0.69" y = "0.702"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "38">
+				<point name = "1" x = "0.634" y = "0.64"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "39">
+				<point name = "1" x = "0.649" y = "0.652"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "40">
+				<point name = "1" x = "0.649" y = "0.652"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "38">
+				<point name = "1" x = "0.634" y = "0.64"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "39">
+				<point name = "1" x = "0.649" y = "0.652"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "40">
+				<point name = "1" x = "0.649" y = "0.652"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "38">
+				<point name = "1" x = "0.634" y = "0.64"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "39">
+				<point name = "1" x = "0.649" y = "0.652"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "40">
+				<point name = "1" x = "0.649" y = "0.652"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+			<frame id = "37">
+				<point name = "1" x = "0.69" y = "0.702"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.567" y = "0.485"/>
+			</frame>
+		</animation>
+		<animation name = "DANO_ESQ" frameDuration = "100" loop = "false" offsetX = "-50" offsetY = "0">
+			<frame id = "41">
+				<point name = "1" x = "0.829" y = "0.644"/>
+				<point name = "0" x = "0.664" y = "0.497"/>
+				<point name = "2" x = "0.711" y = "0.656"/>
+			</frame>
+		</animation>
+	</animations>
+	<animations name="TOCO">
+		<animation name = "ANDANDO_DIR" frameDuration = "100" loop = "true" offsetX = "0" offsetY ="0">
+			<frame id = "0">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "1">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "2">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "3">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "4">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "5">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "6">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "7">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+		</animation>
+		<animation name = "MORRENDO_DIR" frameDuration = "100" loop = "false" offsetX = "0" offsetY ="0">
+			<frame id = "8">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "9">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "10">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "11">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+			<frame id = "12">
+				<point name = "0" x = "0.521" y = "0.156"/>
+			</frame>
+		</animation>
+		<animation name = "ANDANDO_ESQ" frameDuration = "100" loop = "true" offsetX = "0" offsetY ="0">
+			<frame id = "13">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "14">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "15">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "16">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "17">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "18">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "19">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "20">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+		</animation>
+		<animation name = "MORRENDO_ESQ" frameDuration = "100" loop = "false" offsetX = "0" offsetY ="0">
+			<frame id = "21">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "22">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "23">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "24">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+			<frame id = "25">
+				<point name = "0" x = "0.444" y = "0.156"/>
+			</frame>
+		</animation>
+	</animations>
+	<animations name="ARANHA">
+		<animation name = "DESCENDO" frameDuration = "100" loop = "false" offsetX = "0" offsetY ="0">
+			<frame id = "1">
+				<point name = "0" x = "0.15" y = "0.35"/>
+				<point name = "1" x = "0.213" y = "0.212"/>
+				<point name = "2" x = "0.682" y = "0.125"/>
+				<point name = "3" x = "0.849" y = "0.275"/>
+			</frame>
+			<frame id = "2">
+				<point name = "0" x = "0.15" y = "0.35"/>
+				<point name = "1" x = "0.213" y = "0.212"/>
+				<point name = "2" x = "0.682" y = "0.125"/>
+				<point name = "3" x = "0.849" y = "0.275"/>
+			</frame>
+			<frame id = "3">
+				<point name = "0" x = "0.15" y = "0.35"/>
+				<point name = "1" x = "0.213" y = "0.212"/>
+				<point name = "2" x = "0.682" y = "0.125"/>
+				<point name = "3" x = "0.849" y = "0.275"/>
+			</frame>
+		</animation>
+		<animation name = "SUBINDO" frameDuration = "100" loop = "false" offsetX = "0" offsetY ="0">
+			<frame id = "4">
+				<point name = "0" x = "0.15" y = "0.737"/>
+				<point name = "1" x = "0.213" y = "0.212"/>
+				<point name = "2" x = "0.757" y = "0.1"/>
+				<point name = "3" x = "0.867" y = "0.425"/>
+			</frame>
+		</animation>
+		<animation name = "CHAO" frameDuration = "100" loop = "false" offsetX = "0" offsetY ="0">
+			<frame id = "0">
+				<point name = "0" x = "0.115" y = "0.637"/>
+				<point name = "1" x = "0.184" y = "0.25"/>
+				<point name = "2" x = "0.699" y = "0.1"/>
+				<point name = "3" x = "0.849" y = "0.3"/>
+			</frame>
+		</animation>
+	</animations>
+	<animations name = "PARTE">
+		<animation name = "VISIBLE" frameDuration = "100" loop = "false" offsetX = "0" offsetY = "0">
+			<frame id = "0"/>
+		</animation>
+		<animation name = "INVISIBLE" frameDuration = "100" loop = "false" offsetX = "0" offsetY = "0">
+			<frame id = "1"/>
+		</animation>
+	</animations>
+	<animations name = "PARTE2">
+		<animation name = "VISIBLE" frameDuration = "100" loop = "false" offsetX = "0" offsetY = "0">
+			<frame id = "0"/>
+		</animation>
+		<animation name = "INVISIBLE" frameDuration = "100" loop = "false" offsetX = "0" offsetY = "0">
+			<frame id = "1"/>
+		</animation>
+	</animations>
+	<animations name = "PARTE3">
+		<animation name = "VISIBLE" frameDuration = "100" loop = "false" offsetX = "0" offsetY = "0">
+			<frame id = "0"/>
+		</animation>
+		<animation name = "INVISIBLE" frameDuration = "100" loop = "false" offsetX = "0" offsetY = "0">
+			<frame id = "1"/>
+		</animation>
+	</animations>
+	<animations name="AGUA">
+		<animation name = "ESQ" frameDuration = "100" loop = "true" offsetX = "0" offsetY ="0">
+			<frame id = "0"/>
+			<frame id = "1"/>
+			<frame id = "2"/>
+			<frame id = "3"/>
+			<frame id = "4"/>
+			<frame id = "5"/>
+			<frame id = "6"/>
+			<frame id = "7"/>
+			<frame id = "8"/>
+			<frame id = "9"/>
+			<frame id = "10"/>
+		</animation>
+	</animations>
+</characterAnimations>
